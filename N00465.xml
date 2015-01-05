@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000588_0000_0FA9581F0A2DE560"/>
-            <pb facs="tcp:000588_0001_0FA9581899C42548" rendition="simple:additions"/>
+            <pb facs="unknown:000588_0000_0FA9581F0A2DE560"/>
+            <pb facs="unknown:000588_0001_0FA9581899C42548"
+                rendition="simple:additions"/>
             <p>BLOOD WILL OUT, OR, AN Example of Justice IN THE Tryal, Condemnation, Confession AND EXECUTION OF Thomas Lutherland, Who Barbarously Murthered the Body of <hi>John Clark</hi> of <hi>Philadelphia,</hi> And was Executed at <hi>Salem</hi> in <hi>VVest-Jarsey</hi> the 23d of <hi>February,</hi> 1691/2.</p>
             <p>
                <hi>Philadelphia,</hi> Printed and Sold by <hi>Will. Bradford,</hi> 1692.</p>
@@ -122,7 +123,7 @@
       </front>
       <body>
          <div type="court_proceedings">
-            <pb n="1" facs="tcp:000588_0002_0FA9581A106C50B0"/>
+            <pb n="1" facs="unknown:000588_0002_0FA9581A106C50B0"/>
             <head>The Tryal, Condemnation, Confession and Execution of <hi>Thomas Lutherland,</hi> who barbarously Murthered the Body of <hi>John Clark</hi> of <hi>Philadelphia.</hi>
             </head>
             <p>SInce there can be nothing more seasonable than a right Information and understanding of Publick Acts, and lest this so publick Tryal should be misrepre<g ref="char:EOLhyphen"/>sented, it was thought necessary, for the satisfaction of Ra<g ref="char:EOLhyphen"/>tional men, to make it more publick.</p>
@@ -149,7 +150,7 @@
                         <head>The Indictment Read.</head>
                         <p>
                            <hi>THomas Lutherland,</hi> Thou standest here Indicted by the Name of <hi>Thomas Lutherland,</hi> late of <hi>Pennsilvania,</hi>
-                           <pb n="4" facs="tcp:000588_0003_0FA9581AC7B44658"/>
+                           <pb n="4" facs="unknown:000588_0003_0FA9581AC7B44658"/>
 and now of the Town and County of <hi>Salem,</hi> in the Province of <hi>West-Jarsey,</hi> Carpenter, for that thou didst on or about the 12th day of <hi>November</hi> last past, in the Night time, contrary to the Peace, Crown and Dignity of our Soveraign Lord and Lady, <hi>William</hi>
                            <g ref="char:punc">▪</g> and <hi>Mary</hi>
                            <g ref="char:punc">▪</g> King and Queen of <hi>England, &amp;c.</hi> Not having the Fear of God before thine Eyes, Wickedly, Maliciously and Fello<g ref="char:EOLhyphen"/>niously enter the Boat of <hi>John Clark,</hi> late of <hi>Philadelphia,</hi> in the Province of <hi>Pennsilvania,</hi> Merchant, then Riding near <hi>Salem</hi> Landing, and didst then and there break open, and Felloniously take and carry away the Goods of the said <hi>John Clark,</hi> to the full Value of Fifteen Pound Eight Shillings and Eleaven Pence. And further, thou didst then and there, with Force and Arms, VVillfully, Ma<g ref="char:EOLhyphen"/>liciously and Barbarously, for lucre of the said Goods, inhumanely Murder and Destroy the said <hi>John Clark</hi>; for both which said Facts thou art required to plead, <hi>Guilty,</hi> or <hi>Not Guilty.</hi>
@@ -190,7 +191,7 @@ and now of the Town and County of <hi>Salem,</hi> in the Province of <hi>West-Ja
                <p>
                   <stage>Reads.</stage>
 In the beginning of <hi>November</hi> last, <hi>John Clark</hi> late of the City of <hi>Philadelphia,</hi> was Trading at <hi>Salem</hi> with
-<pb n="5" facs="tcp:000588_0004_0FA958205D5D5D50"/>
+<pb n="5" facs="unknown:000588_0004_0FA958205D5D5D50"/>
 several sorts of Goods, according to his usual manner; and upon the 12 day of the said Month, his Boat was found on Shore at <hi>Sandy Point,</hi> near the Mouth of <hi>Salem Creek; John Clark</hi> was not in the Boat; the Boat, and Goods that were in her, were secured, and information given to the Justices and Sheriff concerning them, who went where the Boat then lay, and viewing the Goods, there were serveral Per<g ref="char:EOLhyphen"/>sons present, that were with <hi>John Clark</hi> the day before in his Boat, and they affirmed, <hi>That they did see several Parcels of Goods th<gap reason="illegible: indecipherable" extent="1 letter">
                         <desc>•</desc>
                      </gap>n in the Boat, which Goods were considerable, and were now missing:</hi> Whereupon the Justices supposed that the Boat was Robbed and <hi>John Clark</hi> Murthered for the love of his Goods: And having just cause to suspect the Prisoner at the Bar, he being a Person convicted in <hi>England,</hi> at Sea, and at <hi>Philadelphia,</hi> and being of evil Name and Fame in <hi>Salem,</hi> there was a Warrant issued forth for the searching all suspicious places; by virtue whereof, the Constable, with his Assistance, went to the House of the Prisoner, where they found of the said <hi>John Clark</hi>'s Goods to the value of 15 <hi>l.</hi> 18 <hi>s.</hi> 11 <hi>d.</hi> the Prisoner not being then in the house, but within a <gap reason="illegible: indecipherable" extent="2 letters">
@@ -218,7 +219,7 @@ several sorts of Goods, according to his usual manner; and upon the 12 day of th
                <p>What Specie did you pay <hi>John Clark</hi> with?</p>
             </sp>
             <sp>
-               <pb n="64" facs="tcp:000588_0005_0FA958230B9BD8F8"/>
+               <pb n="64" facs="unknown:000588_0005_0FA958230B9BD8F8"/>
                <speaker>Pris.</speaker>
                <p>
                   <hi>I paid him</hi> 36 s. <hi>in Wampum, one piece of <gap reason="illegible: torn page" extent="1 word">
@@ -278,13 +279,13 @@ several sorts of Goods, according to his usual manner; and upon the 12 day of th
                <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>. Upon the 11 day of <hi>January,</hi> 1691, 2, the Body of <hi>John Clark</hi> was found near <hi>Windham</hi> Landing.
-<pb n="7" facs="tcp:000588_0006_0FA95823E06AB4C0"/>
+<pb n="7" facs="unknown:000588_0006_0FA95823E06AB4C0"/>
 The Coroner Impannelled an Inquest, who upon viewing the Corps, and diligently searching the same, they found his Neck was very limber, &amp; much shrivelled upon the skin, and seemed more blew than other parts of his body. They sent for the Prisoner; when he was brought, he was bid to touch the Corps, the which he did do, and wished most execrable Wishes, <hi>That God would send some suddain Judg<g ref="char:EOLhyphen"/>ment upon him, if ever he murthered</hi> John Clark; saying, <hi>if he had murthered him, he would bleed afresh</hi>; saying, <hi>Poor innocent man! why should I destroy him?</hi>
             </p>
             <p>The Corooners Inquest, seventeen in Number, with<g ref="char:EOLhyphen"/>drew to consider of their Verdict.</p>
             <p>They sent for the Prisoner, asked him to tell them, how he came to the fore-mentioned Goods? He said, he had been with <hi>John Clark</hi> in the Evening, and bought some Threed Buttons of him for some old Cask, and when he came home, his Wife told him, she wanted some blew Tape, and some Mettle Buttons for the Children; where<g ref="char:EOLhyphen"/>upon he went to the Town Landing, and finding the Boat gone, he went to <hi>Windhame,</hi> and from thence he saw the Boat near near <hi>Salem Creeks Mouth,</hi> then there was three Canows at <hi>Windham</hi> Landing, and he took one of them, which was a knotty Canow, and went to the Boat, finding no body in it, he took the Goods, and put them into the Canow, brought them to <hi>Windham</hi> Landing about half an hour before Sun rising; he hid the <hi>English Goods</hi> in <hi>Wind<g ref="char:EOLhyphen"/>ham</hi> Marsh, and carried a parcel of Cheese home that Morning, and fetcht the other Goods home about two or three dayes after.</p>
             <p>Several Persons that were of the said Inquest, were at <hi>Windham</hi> the same Morning (about Sun rising,) that the Prisoner said he landed the Goods there, and they do affirm,
-<pb n="8" facs="tcp:000588_0007_0FA958248F875780"/>
+<pb n="8" facs="unknown:000588_0007_0FA958248F875780"/>
 That there were three Canows there, but no such <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> as the Prisoner described, neither could any of <gap reason="illegible: indecipherable" extent="1 word">
@@ -309,22 +310,22 @@ That there were three Canows there, but no such <gap reason="illegible: indeciph
 (<hi>vid. Cooks com. upon Littleton</hi>)
 the Justices are but to inform the Jury in matters of Law, and to pro<g ref="char:EOLhyphen"/>nounce the Sentence and Judgment written against the Prisoner, and order the same Judgment to be put in Execution.</p>
                         <p>Where there is a Superiour Power. inferiour Magi<g ref="char:EOLhyphen"/>strates
-<pb n="9" facs="tcp:000588_0008_0FA95825A3BDD760"/>
+<pb n="9" facs="unknown:000588_0008_0FA95825A3BDD760"/>
 have their Power limitted; but among Equals in Authority (as it is in this Province of <hi>West-Jarsey</hi>) there is no Superiority, therefore those Magistrates that are in Power here, ought to defend the Weak, punish the Wicked, and be just to all, acting as there is need, and as the Times, Persons and Accidents do require, and accor<g ref="char:EOLhyphen"/>ding to the Exigency, Distress and Necessity of the case. In vain are good Laws made, if there be none to put them in Execution.</p>
                         <p>May it please this Court, and you Gentlemen of the Jury, You are here for the Trying and Judging of <hi>Thomas Lutherland,</hi> Prisoner at the Bar, for his notorious Mur<g ref="char:EOLhyphen"/>thering of <hi>John Clark,</hi> late one of the King and Queen of <hi>England</hi>'s Subjects, and for the Fellonious taking and carrying away his Goods: He hath been a notorious fellon in <hi>England,</hi> at Sea, in <hi>Philadelphia,</hi> and in this County of <hi>Salem,</hi> stands now before you to receive the good of Justice.</p>
                         <p>The King and Queen of <hi>England</hi> have lost a Subject, who was in Health at the common Landing place in <hi>Salem</hi> Town after Sun set the 11th day of <hi>November,</hi> 1691. and on the next Morning the said <hi>John Clark</hi> was not to be found, but his Boat robbed, and divers parcels of goods felloniously taken &amp; carried away by the Prisoner, as himself has confessed. That <hi>John Clark</hi> was murthered by the Prisoner at the Bar, seventeen Reputable Persons, on the Coroners Inquest, has given it in their Verdict, and this Fellony has relation to the Murther, for the Murther was committed for love to the Goods. If it be found that <hi>A. B.</hi> was murthered in the Night, and the Goods that he had with him at the time of his Death, shall be found in the possession of <hi>C. D.</hi> the next Morning be<g ref="char:EOLhyphen"/>fore
-<pb n="10" facs="tcp:000588_0009_0FA958260780CAA8"/>
+<pb n="10" facs="unknown:000588_0009_0FA958260780CAA8"/>
 Sun rising, it does naturally and necessarily imply, That <hi>C. D.</hi> murthered <hi>A. B.</hi> for the love of his Goods: Had the Prisoner taken the Goods, and spared the mans Life, the man would have discovered him, for he knew him; therefore, because otherwise, take the Goods with<g ref="char:EOLhyphen"/>out being discovered, he took away the mans Life also.</p>
                         <p>The Prisoner himself has disproved himself in his several Examinations: All Circumstances concurs with the Grand Inquests Judgment, <hi>That the Prisoner at the Bar is guilty both of the Murther and Fellony charged upon him.</hi> First, he said, he brought the Cheese home in the Evening, and left the English Goods in <hi>George Hazlwoods</hi> Shallop till the next Morning. Another time he sayes, he brought the Cheese home from <hi>Windham Landing,</hi> and hid the <hi>English Goods</hi> there in the Marsh for two or three dayes.</p>
                         <p>All his Serpentine Turnings, and Windings, and Self-contradictions are but like <hi>Irish Quag-Mires</hi> that have no sollid Ground, or Reason: He is incorporated into Evil by a long habit, in such sort, that his Understanding it self approveth it, and consenteth thereunto; His heart is so hardened, that Wickedness is therein rooted and framed, and as it were naturalized, end his Soul infected and wholly tainted therewith. All his Evasions whereby he endeavours to avoid the Punishment, are but the tying an Artificial Knot in the Halter, whereby to strangle his Conscience.</p>
                         <p>The Truth or Falseness, respectively, lies in the strength or weakness of the Arguments that are brought in de<g ref="char:EOLhyphen"/>fence of them<g ref="char:punc">▪</g> There is not any of the Prisoners Con<g ref="char:EOLhyphen"/>fessions that he hath made at several times, but one is repugnant to the other<g ref="char:punc">▪</g> all his study cannot make his
-<pb n="11" facs="tcp:000588_0010_0FA95829466B0D18"/>
+<pb n="11" facs="unknown:000588_0010_0FA95829466B0D18"/>
 words speak Reason, but doubtful and ambiguous words, with particular Reserves, argues a base Mind.</p>
                         <p>It is usual and necessarily lawful to judge of Causes by the Effects, that naturally and necessarily flow from them: The Man is found Murthered, and his Goods some found in the Prisoners house, some hid in the Hay, and some hid among Corn out of the House Evil Actions shew an evil Intent, and both put together declares Guilt.</p>
                         <p>Concerning my self, I bear no Malice to the mans Person, than I do to my dearest Friend; but I hate that cursed Principle of Cruelty and Fellony, which hath so long harboured in him.</p>
                         <p>And now, as the Truth is, I must conclude him guilty of the Murther and Fellony charged upon him; and that he who hath made himself a President in these parts of the World, in committing such Wickedness, I humbly desire, that this Court, for Justice sake, would make him an Example for others, for time to come, that men may hear and fear, and do no more so wickedly; That he, who would not be a Pattern to other Trades-men to live honestly in this Life, may be a President of Justice by his Death.</p>
                         <p>When the Prisoner was first apprehended, the Justice commanded the Constable to search his Pookets, from whence the Constable took a small parcel of Papers tyed together, and the Prisoner said, they were his own Papers; but when they were opened, the first Paper viewed, was a Bill from <hi>John Gillman</hi> to pay <hi>John Clark</hi> thirty Shillings; Then a large Paper was taken out of his Pocket, and he said, <hi>That was his Deed for a Town Lot he had lately purchased</hi>; but being viewed, it appeared to
-<pb n="12" facs="tcp:000588_0011_0FA95829C67A5728"/>
+<pb n="12" facs="unknown:000588_0011_0FA95829C67A5728"/>
 be a Deed for Land that <hi>John Clark</hi> had purchased: Be<g ref="char:EOLhyphen"/>ing asked, how he got those Writings? he said, <hi>He found <gap reason="illegible: indecipherable" extent="1 span">
                                  <desc>〈…〉</desc>
                               </gap>.</hi> I am fully satisfied, the Prisoner <gap reason="illegible: indecipherable" extent="1 word">
@@ -357,7 +358,7 @@ be a Deed for Land that <hi>John Clark</hi> had purchased: Be<g ref="char:EOLhyp
             <p>The Court adjourned until eight of the Clock the next Morning.</p>
             <p>
                <hi>February</hi> the 17<hi>th,</hi> the Court being for, the Prisoner was
-<pb n="13" facs="tcp:000588_0012_0FA9582C08B06D20"/>
+<pb n="13" facs="unknown:000588_0012_0FA9582C08B06D20"/>
 set to the Bar, and the Jury called over by their Names.</p>
             <sp>
                <speaker>Clark.</speaker>
@@ -399,7 +400,7 @@ set to the Bar, and the Jury called over by their Names.</p>
                      <div type="petition">
                         <p>WHereas <hi>Thomas Lutherland</hi> is found guilty of the Fellonious Taking and carrying away the Goods of <hi>John Clark,</hi> and of willfull Murther, as by the Judgment of Fifty Two Persons, Jurors, doth appear. And forasmuch as Justices of the Peace, by the Commission of the Peace, are not impowered to pass Sentence of Death, where there are superiour Courts, but seeing we have no superiour Court in this Province, we must apply our selves to you for Justice.</p>
                         <p>The great Charge and Trouble it hath been to this County in securing the said <hi>Lutherland,</hi> and the hazard of his escape, the Encouragement which the Impunity of this Notorious and Heinous Fact, may give to other Wicked People to do the like,
-<pb n="14" facs="tcp:000588_0013_0FA9582F63875E10"/>
+<pb n="14" facs="unknown:000588_0013_0FA9582F63875E10"/>
 whereby their Majesties loving and peaceable Subjects may be <gap reason="illegible: indecipherable" extent="1 span">
                               <desc>〈…〉</desc>
                            </gap> constrains us to call to you for Justice, and that you pass sentence of Death on the said <hi>Lutherland,</hi> according to Law, and give order for the Execution thereof. And we whose Names are <gap reason="illegible: indecipherable" extent="2 letters">
@@ -432,7 +433,7 @@ whereby their Majesties loving and peaceable Subjects may be <gap reason="illegi
                <p>
                   <hi>Thomas Lutherland,</hi> Thou art here found guilty, 1<hi>st.</hi> by the Corroners Inquest, 2<hi>dly,</hi> By the Grand Jury, and <hi>lastly,</hi> by the Jury of Life and Death. And now having nothing to say, why Judgment should not pass against thee.</p>
                <p>Now it resteth to pronounce the Judgment, which I wish thou hadst not been this day to have received; but since thou hast been found guilty of the Murther and
-<pb n="15" facs="tcp:000588_0014_0FA95AFF224A7CF8"/>
+<pb n="15" facs="unknown:000588_0014_0FA95AFF224A7CF8"/>
 Fellony charged against thee, <hi>Thou shalt be had to the place from whence thou came, From thence to the place of Execution, and there thou shalt be Hanged by the Neck till thy Body be Dead, Dead, Dead; and God have Mercy upon thy Soul.</hi>
                </p>
             </sp>
@@ -463,7 +464,7 @@ Fellony charged against thee, <hi>Thou shalt be had to the place from whence tho
                               </gap>a</hi>
                            <g ref="char:punc">▪</g> I consented to the stealing of several parcels of Goods on Ship-board, which is the same as doing the Fact: In <hi>Pennsilvania</hi> I was convicted of several Thefts, but could take no warning by all this.</p>
                         <p>I pray<g ref="char:punc">▪</g> good People take care of your Goods, and leave them not in Our houses carelesly, which are great Temp<g ref="char:EOLhyphen"/>tations
-<pb n="16" facs="tcp:000588_0015_0FA95B000F91C378"/>
+<pb n="16" facs="unknown:000588_0015_0FA95B000F91C378"/>
 to sinners, the Devil takes such opportunities to perswade sinners to S<gap reason="illegible: missing" extent="1 letter">
                               <desc>•</desc>
                            </gap>eal and Rob. I declare, I never took any Goods out of a House that was lockt. Good people pray take warning by my Example, I have been a <gap reason="illegible: indecipherable" extent="1 word">
@@ -479,7 +480,7 @@ to sinners, the Devil takes such opportunities to perswade sinners to S<gap reas
                            </gap>tons; <gap reason="illegible: indecipherable" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> I went away from the Boat, I told him, he had a cold place: He answered, he had a warm Cab<g ref="char:EOLhyphen"/>bin; and I bid him wrap himself warm. As I was going home, my heart mis-gave me, and I thought, <hi>Why should
-<pb n="17" facs="tcp:000588_0016_0FA95B008A5A67E8"/>
+<pb n="17" facs="unknown:000588_0016_0FA95B008A5A67E8"/>
 I destroy this Innocent Creature.</hi> When I came home, <gap reason="illegible: indecipherable" extent="1 span">
                               <desc>〈…〉</desc>
                            </gap> 
@@ -493,7 +494,7 @@ I destroy this Innocent Creature.</hi> When I came home, <gap reason="illegible:
                            </gap> Voice, and asked, Whose Boat it was? He answered, <hi>Mine:</hi> I asked, where he was going? He said, <hi>Vp the River:</hi> I told him, I must go to <hi>New-Castle,</hi> he said, <hi>He wou<gap reason="illegible: indecipherable" extent="1 letter">
                                  <desc>•</desc>
                               </gap>d carry me, if I would pay him:</hi> I told him, I would pay him nothing, I must have your Boat<g ref="char:punc">▪</g> so he put up his head, I suppose to cry out: I bid him put down his Head; he said, <hi>He would be still</hi>; so I took an end of a Roap, and put about his Neck; he cryed, <hi>Friend do not destroy me, he that Created me, Created thee; Remem<g ref="char:EOLhyphen"/>ber thy Creator and Redeemer, and have Mercy upon me, as you expect Mercy from God:</hi> So I told him, I would not destroy him; but he said, <hi>I think you intend to Choak me.</hi> I asked him, if he had got any Money? He said, he had got some Wampum; so he cryed, <hi>Spare my Life, and take my Goods</hi>; but I pulled both ends of the Roap together (he cryed, <hi>Lord have Mercy upon my Soul! Lord have Mercy upon my Soul!</hi>) till he was dead; then I took the Keyes out of his Pocket, and unlockt his Chests, and put his Goods into a Sack; but before I removed them, came <hi>William Penton,</hi> and some others, and he cryed, <hi>Let us call John
-<pb n="18" facs="tcp:000588_0017_0FA95B020355D220"/>
+<pb n="18" facs="unknown:000588_0017_0FA95B020355D220"/>
 Clark</hi>; so I lay down in the Waste of the Boat, and covered my self with some Sacks: When they were gone, I removed the Goods into <hi>George Hazlwood's</hi> Sloop, and rowed <hi>Clarks</hi> Boat down to <hi>Windham,</hi> and hawled him over board, but could not make him sink, which put me into great fear; then I jumpt on shore w<gap reason="illegible: indecipherable" extent="1 letter">
                               <desc>•</desc>
                            </gap>th the Sp<gap reason="illegible: indecipherable" extent="2 letters">
@@ -511,7 +512,7 @@ Clark</hi>; so I lay down in the Waste of the Boat, and covered my self with som
             <p>Not long after the Clark had taken his Confession, he was carryed <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> guarded by the Sheriff and his men to the place of Execution. All the way as he
-<pb n="19" facs="tcp:000588_0018_0FA95B0209024258"/>
+<pb n="19" facs="unknown:000588_0018_0FA95B0209024258"/>
 was carryed, and at the place of Execution, he made a Repetition of the aforesaid Confession, and gave good Exhortation to all People, to take wa<gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap>ning by his Ex<g ref="char:EOLhyphen"/>ample, earnestly desiring, both Young and Old, to be carefull in keeping the Sabbaths; and all Young People to be Dutiful to their Parents. So praying about a quarter of an hour, and desiring all there present to joyn with him; and having forgiven the Executioner, the Cart went away, and he dyed immediately.</p>
